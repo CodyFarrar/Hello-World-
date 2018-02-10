@@ -1,3 +1,5 @@
 # Hello-World-
 BASIC SHANANDS
- Just want to learn something 
+
+How
+who & cout<< ; 
